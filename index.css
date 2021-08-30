@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;600&family=Syne+Mono&family=VT323&display=swap');
+
+/* cores
+azul escuro: #0F3D59
+azul claro: #1DDDF2
+azul piscina: #0CF2F2
+laranja: #A66617 */
+
+/* fonts do projeto
+font-family: 'Raleway', sans-serif;
+font-family: 'Syne Mono', monospace;
+font-family: 'VT323', monospace; */
+
+body{
+    background-image: url(./img/cryptology-vs-cryptography-feature.jpg);
+    background-size: 100%;
+    
+}
+
+h1{
+    font-family:'VT323', monospace;
+    margin: 40px 0 0 0;
+    color:#ffffff;
+    font-size: 50px;
+    text-align: -webkit-center;
+    
+
+}
